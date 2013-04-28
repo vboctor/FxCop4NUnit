@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FxCop4NUnit", "FxCop4NUnit\FxCop4NUnit.csproj", "{DC87CCCF-926A-47C8-9210-AD852E80FC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FxCop4NUnit.Samples", "FxCop4NUnit.Samples\FxCop4NUnit.Samples.csproj", "{74B2023E-7456-4F9D-94A4-05CD41A64082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC87CCCF-926A-47C8-9210-AD852E80FC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC87CCCF-926A-47C8-9210-AD852E80FC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC87CCCF-926A-47C8-9210-AD852E80FC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC87CCCF-926A-47C8-9210-AD852E80FC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B2023E-7456-4F9D-94A4-05CD41A64082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B2023E-7456-4F9D-94A4-05CD41A64082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B2023E-7456-4F9D-94A4-05CD41A64082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B2023E-7456-4F9D-94A4-05CD41A64082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

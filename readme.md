@@ -1,0 +1,1 @@
+FxCop4NUnit is a set of FxCop rules that checks unit tests for good practices.  I've developed this for fun back in 2005.
